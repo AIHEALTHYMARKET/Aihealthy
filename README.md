@@ -145,6 +145,12 @@ function showContent(title){
   document.getElementById("content").innerHTML = `
     <h3>${title}</h3>
 
+<video controls>
+<source src="jimeng-2026-03-23-6814-嘴型不要过度夸张的张开，不要拿掉眼镜，眼睛适当自然的眨眼，眼神要正對鏡頭，眼睛大....mp4">
+</video>
+
+<br><br>
+
     <audio controls>
       <source src="audio1.mp3">
     </audio>

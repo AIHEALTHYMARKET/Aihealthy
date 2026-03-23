@@ -145,6 +145,14 @@ function showContent(title){
   document.getElementById("content").innerHTML = `
     <h3>${title}</h3>
 
+
+
+    <video controls>
+      <source src="audio1.mp3">
+    </video>
+
+    <br><br>
+
     <audio controls>
       <source src="audio1.mp3">
     </audio>
